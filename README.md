@@ -4,5 +4,5 @@ Featuring a graphic user interface, complete with ASCII art making full use of t
 <br />
 Run with: ./battleships input1.txt input2.txt input3.txt <br />
 Feel free to create your own maps.
-<br />
+<br /><br />
 P.S. I wrote this when I first started with C and so the entire project can be rewritten in a better way.
